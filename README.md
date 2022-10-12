@@ -1,16 +1,28 @@
 # Autonomous_Battle_bot
 
-<!-- ![VID-20211213-WA0018](https://user-images.githubusercontent.com/114446420/195460639-602ba2a9-39ca-4b72-947b-10f97c65afe2.gif) -->
+This project was done as the part of the course MEAM510 : Design of Mechatronic Systems in UPenn.
+
+## Functionality 1: Beacon Tracking
 <table>
   <tr>
-      <td align = "center"> <img src="./Result snaps/Raw_image.JPG"> </td>
-      <td align = "center"> <img src="./Result snaps/Prediction_image.JPG"> </td>
-      <td align = "center"> <img src="./Result snaps/NMS_prediction.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/beacon.gif"> </td>
+      <td> This task required the bot to find the IR light emitting tower. <br> The IR beacon tower is emitting light at a certain frequency which the bot detects                using an amplification circuit and moves towards it. The circuit designed works over a distance upto 5 mts. For more details, please refer to the report. </td>
   </tr>
   <tr>
-      <td align = "center"> Raw labels from the dataset</td>
-      <td align = "center"> Predictions from the model </td>
-      <td align = "center"> Boxes after non-max suppression </td>
+      <td align = "center"> Beacon Tracking</td>
   </tr>
 </table>
+
+## Functionality 2: Wall Follow
+
+<table>
+  <tr>
+      <td align = "center"> <img src="./Pictures/wall_follow.gif"> </td>
+      <td> This task required the bot to follow the wall over a decided distance margin. <br>  For more details, please refer to the report.</td>
+  </tr>
+  <tr>
+      <td align = "center"> Wall Following</td>
+  </tr>
+</table>
+
 
