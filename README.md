@@ -25,4 +25,14 @@ This project was done as the part of the course MEAM510 : Design of Mechatronic 
   </tr>
 </table>
 
+## Functionality 3: Vive Can Tracking
 
+<table>
+  <tr>
+      <td align = "center"> <img src="./Pictures/wall_follow.gif"> </td>
+      <td> This task required the bot to follow the wall over a decided distance margin. <br>  For more details, please refer to the report.</td>
+  </tr>
+  <tr>
+      <td align = "center"> Wall Following</td>
+  </tr>
+</table>
