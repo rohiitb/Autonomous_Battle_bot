@@ -4,11 +4,13 @@ This project was done as the part of the course MEAM510 : Design of Mechatronic 
 
 <table>
   <tr>
-      <td align = "center"> <img src="./Pictures/pic1.JPG"> </td>
-      <td align = "center"> <img src="./Pictures/pic2.JPG"> </td>
-      <td align = "center"> <img src="./Pictures/pic3.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/pic1.jpg"> </td>
+<!--       <td align = "center"> <img src="./Pictures/pic2.jpg"> </td> -->
+      <td align = "center"> <img src="./Pictures/pic3.jpg"> </td>
   </tr>
 </table>
+
+The functionalities are listed below:
 
 ## Functionality 1: Beacon Tracking
 <table>
