@@ -1,6 +1,14 @@
 # Autonomous_Battle_bot
 
-This project was done as the part of the course MEAM510 : Design of Mechatronic Systems in UPenn.
+This project was done as the part of the course MEAM510 : Design of Mechatronic Systems in UPenn. This project involves designing and manufacturing of a wheeled bot which can carry out the task of grabbing cans from the opponents field. Varied functionalities are implemented on the robot to carry out the desired task autonomously. The robot is also capable of navigating itself to a particular location using VIVE localization system. ESP32 microcontroller was used for driving and grabbing. Wireless communication via HTML(Webpage) and UDP was used to send commands to the robot. ESPnow was also used to communicate between multiple ESP32s.
+
+<table>
+  <tr>
+      <td align = "center"> <img src="./Pictures/pic1.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/pic2.JPG"> </td>
+      <td align = "center"> <img src="./Pictures/pic3.JPG"> </td>
+  </tr>
+</table>
 
 ## Functionality 1: Beacon Tracking
 <table>
