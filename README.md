@@ -43,6 +43,6 @@ The functionalities are listed below:
       <td> This task required the bot to detect the location (x, y) coordinates of the can and move to that location. Ideally, two localization systems are required to get the orientation of the robot but we implemented a different approach where we could control the orientation of the bot with just one localization system. Here, VIVE localization was used. For more details, please refer to the report.</td>
   </tr>
   <tr>
-      <td align = "center"> Wall Following</td>
+      <td align = "center"> Can Tracking</td>
   </tr>
 </table>
